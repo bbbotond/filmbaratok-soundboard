@@ -1,0 +1,27 @@
+{
+  "configVersion": 1,
+  "timestamp": 1632857409622,
+  "index": "https://bbbotond.github.io/filmbaratok-soundboard/index.html",
+  "assetGroups": [],
+  "dataGroups": [],
+  "hashTable": {},
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
